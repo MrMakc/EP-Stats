@@ -1,0 +1,48 @@
+.pays-container {
+  background: #FFFFFF;
+  box-shadow: 0px 0px 15px -5px #000000;
+
+  border-radius: 10px;
+
+  .pays-header-container {
+    border-bottom: 1px solid darkgrey;
+    padding: 1rem 2.5rem;
+  }
+
+  .attr-container {
+    padding: 2.5rem 0;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+    .attr-card {
+      flex: 1 0 21%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+
+      box-sizing: border-box;
+      padding: 2.5rem;
+      margin: 0 2.5rem;
+      border-radius: 10px;
+      height: 100%;
+
+      background-color: #FAFAFA;
+      box-shadow: 0px 0px 15px -5px #000000;
+
+      figure {
+        width: 250px;
+        height: 100%;
+        display: flex;
+        justify-items: center;
+        align-items: center;
+
+        img {
+          width: 100%;
+          height: max-content;
+        }
+      }
+    }
+  }
+}

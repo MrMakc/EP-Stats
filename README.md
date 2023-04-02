@@ -1,2 +1,5 @@
-# EP-Stats
-EP Stats is a stats submitter build for Europa-Park.
+# EP-Stats 🎢
+EP Stats is a stats submitter built for Europa-Park.
+
+
+
